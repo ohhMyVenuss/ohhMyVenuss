@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Im Nhat Minh (ohhMyVenuss) 👋
 
 <!--
 **ohhMyVenuss/ohhMyVenuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
