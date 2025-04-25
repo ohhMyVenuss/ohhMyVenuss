@@ -1,4 +1,4 @@
-## Hi there, Im Nhat Minh (ohhMyVenuss) 👋
+## Hi there, Im Nhat Minh 👋
 - 🔭 I’m currently studying VKU University
 - ⚡ I’m love Java, I can learn Java all day
 ### 🔗 Connect with me:
