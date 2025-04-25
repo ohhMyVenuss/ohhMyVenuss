@@ -7,7 +7,7 @@
     <img
       src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"
       alt="Facebook"
-      width="120" />
+      width="140" />
   </a>
   <a href="https://github.com/yourusername">
     <img
