@@ -1,4 +1,6 @@
 ## Hi there, Im Nhat Minh (ohhMyVenuss) 👋
+- 🔭 I’m currently studying VKU University
+- Im love Java, I can learn Java all day
 
 <!--
 **ohhMyVenuss/ohhMyVenuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
